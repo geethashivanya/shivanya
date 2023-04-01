@@ -33,6 +33,7 @@ We can also use GCD to find the LCM of two numbers using the following formula:
 
 LCM = (n1 * n2) / GCD
 If you don't know how to calculate GCD in Java, check Java Program to find GCD of two numbers.
+hellow how are you
 
 Example 2: Calculate LCM using GCD
 public class Main {
